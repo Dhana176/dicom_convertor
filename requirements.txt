@@ -1,0 +1,5 @@
+pydicom==2.3.0
+streamlit==1.12.1
+tensorflow==2.5.0  # Include the version of TensorFlow you are using
+pillow==8.2.0
+scipy==1.7.0
