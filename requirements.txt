@@ -1,0 +1,7 @@
+
+pydicom==2.3.0
+streamlit==1.14.0
+tensorflow==2.5.0
+pillow==8.2.0
+scipy==1.7.0
+typing-extensions
